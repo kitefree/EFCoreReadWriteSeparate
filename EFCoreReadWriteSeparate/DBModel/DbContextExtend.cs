@@ -4,36 +4,21 @@ namespace EFCoreReadWriteSeparate.DBModel
 {
     public static class DbContextExtend
     {
-
-        /// <summary>
-        /// 只读
-        /// </summary>
-        /// <param name="dbContext"></param>
-        /// <returns></returns>
-        /// <exception cref="Exception"></exception>
-        public static DbContext Slave(this DbContext dbContext)
+        public static DbContext ToRead(this DbContext dbContext)
         {
             if (dbContext is MyDBContext)
-            {
-                return ((MyDBContext)dbContext).Slave();
-            }
+                return ((MyDBContext)dbContext).ToRead();
             else
                 throw new Exception();
         }
-        /// <summary>
-        /// 读写
-        /// </summary>
-        /// <param name="dbContext"></param>
-        /// <returns></returns>
-        /// <exception cref="Exception"></exception>
-        public static DbContext Master(this DbContext dbContext)
+
+        public static DbContext ToWrite(this DbContext dbContext)
         {
             if (dbContext is MyDBContext)
-            {
-                return ((MyDBContext)dbContext).Master();
-            }
+                return ((MyDBContext)dbContext).ToWrite();
             else
                 throw new Exception();
+
         }
     }
 }

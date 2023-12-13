@@ -2,7 +2,9 @@
 {
     public class DBConnectionOption
     {
-        public string MasterConnection { get; set; }
-        public string SlaveConnection { get; set; }
+        public string WriteConnection { get; set; }
+
+        public List<string> ReadConnectionList { get; set; }
+
     }
 }

@@ -1,6 +1,7 @@
 ﻿using EFCoreReadWriteSeparate.DBModel;
 using EFCoreReadWriteSeparate.Models;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,6 +14,7 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.Configure<DBConnectionOption>(builder.Configuration.GetSection("ConnectionStrings"));
 builder.Services.AddTransient<DbContext, MyDBContext>();
+
 
 var app = builder.Build();
 

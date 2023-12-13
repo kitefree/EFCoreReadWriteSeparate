@@ -41,20 +41,19 @@ namespace EFCoreReadWriteSeparate.Controllers
             //新增-------------------
             SysUser user = new SysUser()
             {
-                UserName = "李二狗",
-                Account = "liergou",
+                UserName = "主-狗狗02",
+                Account = "gougou",
                 Password = Guid.NewGuid().ToString(),
                 Phone = "13345435554",
                 CreateTime = DateTime.Now
             };
 
             Console.WriteLine($"新增,目前連結字串為:{_dbContext.Database.GetDbConnection().ConnectionString}");
-            _dbContext.Master().Add(user);
+            _dbContext.ToWrite().Add(user);
             _dbContext.SaveChanges();
 
             //只讀--------------------------------
-
-            var users = _dbContext.Slave().Set<SysUser>().ToList();
+            var users = _dbContext.ToRead().Set<SysUser>().ToList();
             Console.WriteLine($"讀取SysUser,數量為:{users.Count},目前連結字串為:{_dbContext.Database.GetDbConnection().ConnectionString}");
 
             return users;
