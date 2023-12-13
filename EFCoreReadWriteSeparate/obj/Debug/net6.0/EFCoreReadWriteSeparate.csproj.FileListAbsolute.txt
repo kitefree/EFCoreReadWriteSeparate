@@ -1,0 +1,132 @@
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\appsettings.Development.json
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\appsettings.json
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\EFCoreReadWriteSeparate.exe
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\EFCoreReadWriteSeparate.deps.json
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\EFCoreReadWriteSeparate.runtimeconfig.json
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\EFCoreReadWriteSeparate.dll
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\EFCoreReadWriteSeparate.pdb
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\obj\Debug\net6.0\EFCoreReadWriteSeparate.csproj.AssemblyReference.cache
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\obj\Debug\net6.0\EFCoreReadWriteSeparate.GeneratedMSBuildEditorConfig.editorconfig
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\obj\Debug\net6.0\EFCoreReadWriteSeparate.AssemblyInfoInputs.cache
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\obj\Debug\net6.0\EFCoreReadWriteSeparate.AssemblyInfo.cs
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\obj\Debug\net6.0\EFCoreReadWriteSeparate.csproj.CoreCompileInputs.cache
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\obj\Debug\net6.0\EFCoreReadWriteSeparate.MvcApplicationPartsAssemblyInfo.cs
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\obj\Debug\net6.0\EFCoreReadWriteSeparate.MvcApplicationPartsAssemblyInfo.cache
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\obj\Debug\net6.0\staticwebassets.build.json
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\obj\Debug\net6.0\staticwebassets.development.json
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\obj\Debug\net6.0\staticwebassets\msbuild.EFCoreReadWriteSeparate.Microsoft.AspNetCore.StaticWebAssets.props
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\obj\Debug\net6.0\staticwebassets\msbuild.build.EFCoreReadWriteSeparate.props
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EFCoreReadWriteSeparate.props
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EFCoreReadWriteSeparate.props
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\obj\Debug\net6.0\staticwebassets.pack.json
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\obj\Debug\net6.0\scopedcss\bundle\EFCoreReadWriteSeparate.styles.css
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\obj\Debug\net6.0\EFCoreReadWriteSeparate.csproj.CopyComplete
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\obj\Debug\net6.0\EFCoreReadWriteSeparate.dll
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\obj\Debug\net6.0\refint\EFCoreReadWriteSeparate.dll
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\obj\Debug\net6.0\EFCoreReadWriteSeparate.pdb
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\obj\Debug\net6.0\EFCoreReadWriteSeparate.genruntimeconfig.cache
+E:\01. kite\002. SideProject\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\obj\Debug\net6.0\ref\EFCoreReadWriteSeparate.dll
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\appsettings.Development.json
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\appsettings.json
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\EFCoreReadWriteSeparate.exe
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\EFCoreReadWriteSeparate.deps.json
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\EFCoreReadWriteSeparate.runtimeconfig.json
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\EFCoreReadWriteSeparate.dll
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\EFCoreReadWriteSeparate.pdb
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\obj\Debug\net6.0\EFCoreReadWriteSeparate.csproj.AssemblyReference.cache
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\obj\Debug\net6.0\EFCoreReadWriteSeparate.GeneratedMSBuildEditorConfig.editorconfig
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\obj\Debug\net6.0\EFCoreReadWriteSeparate.AssemblyInfoInputs.cache
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\obj\Debug\net6.0\EFCoreReadWriteSeparate.AssemblyInfo.cs
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\obj\Debug\net6.0\EFCoreReadWriteSeparate.csproj.CoreCompileInputs.cache
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\obj\Debug\net6.0\EFCoreReadWriteSeparate.MvcApplicationPartsAssemblyInfo.cs
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\obj\Debug\net6.0\EFCoreReadWriteSeparate.MvcApplicationPartsAssemblyInfo.cache
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\obj\Debug\net6.0\staticwebassets\msbuild.EFCoreReadWriteSeparate.Microsoft.AspNetCore.StaticWebAssets.props
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\obj\Debug\net6.0\staticwebassets\msbuild.build.EFCoreReadWriteSeparate.props
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EFCoreReadWriteSeparate.props
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EFCoreReadWriteSeparate.props
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\obj\Debug\net6.0\staticwebassets.pack.json
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\obj\Debug\net6.0\staticwebassets.build.json
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\obj\Debug\net6.0\staticwebassets.development.json
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\obj\Debug\net6.0\scopedcss\bundle\EFCoreReadWriteSeparate.styles.css
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\obj\Debug\net6.0\EFCoreReadWriteSeparate.csproj.CopyComplete
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\obj\Debug\net6.0\EFCoreReadWriteSeparate.dll
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\obj\Debug\net6.0\refint\EFCoreReadWriteSeparate.dll
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\obj\Debug\net6.0\EFCoreReadWriteSeparate.pdb
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\obj\Debug\net6.0\EFCoreReadWriteSeparate.genruntimeconfig.cache
+E:\100. KITE\001_EFCoreReadWriteSeparate\001_EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\EFCoreReadWriteSeparate\obj\Debug\net6.0\ref\EFCoreReadWriteSeparate.dll
